@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 '''
 This tool allows to exfiltrate data using screen capture of a user activity.
-Author: Abderrahman Hbilate 
 Github: https://github.com/Bidaoui4905
 LinkedIn: https://linkedin.com/in/abderrahman-hbilate
 '''
